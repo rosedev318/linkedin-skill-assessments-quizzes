@@ -1,5 +1,6 @@
 ## Accounting
 
+
 #### Q1. Which statement is not an advantage of robotic process automation (RPA)?
 
 - [x] Bots are more creative than humans
